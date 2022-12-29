@@ -32,7 +32,7 @@ import org.firstinspires.ftc.robotcore.external.navigation.Velocity;
 import org.firstinspires.ftc.robotcore.external.Func;
 
 
-@Autonomous(name = "AutoTest", group = "chad")
+@Autonomous(name = "AutoTestRED", group = "chad")
 
 public class AutoTestRED extends LinearOpMode {
     
