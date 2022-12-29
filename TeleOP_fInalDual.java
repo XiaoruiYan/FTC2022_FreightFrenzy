@@ -217,7 +217,6 @@ public class MecanumDual extends LinearOpMode {
     }
     
     public void initServos() {
-        //框
         servo1.setPosition(0.8);
         servo.setPosition(0.1); 
         servo3.setPosition(0.9);
